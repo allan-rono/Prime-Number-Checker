@@ -12,3 +12,7 @@ Author: Allan Rono
 - The number 4 is not a prime number because 2 x 2 also gives us 4.
 
 - The number 20 is not a prime number because 5 x 4 also gives us 20, as well as 2 x 10.
+
+# Sources
+
+https://medium.com/swlh/an-algorithm-a-day-how-to-check-for-a-prime-number-in-javascript-7052630fb4ef
